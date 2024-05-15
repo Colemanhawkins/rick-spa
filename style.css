@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+}
+
+#notfound  {
+    color: red;
+}
+
+nav {
+    background-color:#97ce4c ;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#section  > div {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 2rem;
+    background-color: #f0e14a;
+}
