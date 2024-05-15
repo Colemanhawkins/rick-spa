@@ -4,9 +4,9 @@ Este es un proyecto de una Single Page Application (SPA) desarrollada utilizando
 
 ## Funcionalidades
 
-- **Vista de Publicaciones**: La primera vista muestra una lista de las primeras 20 publicaciones de la API de Rick and Morty. Cada publicación contiene información básica sobre un personaje, como su nombre, especie, género, etc. Puedes acceder a esta vista [aquí](#).
+- **Vista de Publicaciones**: La primera vista muestra una lista de las primeras 20 publicaciones de la API de Rick and Morty. Cada publicación contiene información básica sobre un personaje, como su nombre, especie, género, etc.
   
-- **Vista de Búsqueda**: La segunda vista permite buscar un personaje específico utilizando un buscador. Si el personaje no se encuentra, se muestra un mensaje de error. Puedes acceder a esta vista [aquí](#).
+- **Vista de Búsqueda**: La segunda vista permite buscar un personaje específico utilizando un buscador. Si el personaje no se encuentra, se muestra un mensaje de error.
 
 - **LocalStorage**: Se utiliza el LocalStorage del navegador para almacenar información sobre los personajes. Cuando se hace clic en el botón "More Info" en la vista de Publicaciones, se muestra una tarjeta con información detallada del personaje. Esta información se guarda en el LocalStorage para poder acceder a ella de manera individual.
 
